@@ -8,10 +8,10 @@ docker run -ti  breaktheweb/netshot
 
 default web path: https://serverip:8443
 
-Login: netshot
-Password: netshot
+* Login: netshot
+* Password: netshot
 
 ## TODO:
-Run netshot as non root
-move all sql in to sql file for import
-seperate mysql from netshot functions
+* Run netshot as non root
+* move all sql in to sql file for import
+* seperate mysql from netshot functions
